@@ -11,9 +11,9 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
-[FastGeodesics v1.3](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics)
+[FastGeodesics v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics1.5)
 
-<img width="342" height="322" alt="image" src="https://github.com/user-attachments/assets/feb6dcd3-4b91-439d-a2a8-a7a8fb088920" />
+<img width="284" height="352" alt="image" src="https://github.com/user-attachments/assets/7f428b53-0268-4185-a351-d48f086e5f25" />
 <img width="347" height="262" alt="image" src="https://github.com/user-attachments/assets/4db6c114-9561-4ab3-8044-f5c1e74cd826" />
 
 
