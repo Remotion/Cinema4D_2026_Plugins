@@ -5,9 +5,9 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
-[ImageIO v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/ImageIO)
+[ImageIO v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/ImageIO1.5)
 
-<img width="111" height="414" alt="image" src="https://github.com/user-attachments/assets/6526f043-bc1b-4e48-9c93-683eadd5f8c9" />
+<img width="94" height="156" alt="image" src="https://github.com/user-attachments/assets/3e01a6b5-5572-41b6-90fa-952d6329d463" />
 
 ---
 
