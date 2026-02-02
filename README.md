@@ -5,11 +5,15 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
+C4D 2026 plugin to load and save *.webp, *.jxl (JPEG XL), *.avif (AV1 Image File Format), *.heic (High Efficiency Image Format), *.heif (High Efficiency Image Format).
+
 [ImageIO v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/ImageIO1.5)
 
 <img width="94" height="156" alt="image" src="https://github.com/user-attachments/assets/3e01a6b5-5572-41b6-90fa-952d6329d463" />
 
 ---
+
+Fast Geodesics is a spline generator that creates geodesic curves on mesh surfaces using the parallel transport method.
 
 [FastGeodesics v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics1.5)
 
@@ -18,7 +22,7 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
-SuperTracer is a powerful C++ plugin for Maxon Cinema 4D 2026 that generates advanced spline networks by tracing the motion and proximity of objects, points, and Thinking Particles in real-time.
+SuperTracer is a powerful C++ plugin for C4D 2026 that generates advanced spline networks by tracing the motion and proximity of objects, points, and Thinking Particles in real-time.
 
 [SuperTracer v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/SuperTracer1.0)
 
