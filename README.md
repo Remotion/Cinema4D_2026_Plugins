@@ -19,6 +19,12 @@ C4D 2026 plugin to load and save *.webp, *.jxl (JPEG XL), *.avif (AV1 Image File
 
 ---
 
+Import and Export plugin using Open Asset Import Library [assimp](https://github.com/assimp/assimp).
+
+[MeshI v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/MeshIO1.0)
+
+---
+
 Fast Geodesics is a spline generator that creates geodesic curves on mesh surfaces using the parallel transport method.
 
 [FastGeodesics v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics1.5)
