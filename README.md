@@ -5,6 +5,12 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
+Toys4D includes two procedural spline generator plugins inspired by [turtletoy.net](https://turtletoy.net). Both allow you to generate complex spline geometry using code.
+
+[Toys4D v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/Toys4D1.0)
+
+---
+
 C4D 2026 plugin to load and save *.webp, *.jxl (JPEG XL), *.avif (AV1 Image File Format), *.heic (High Efficiency Image Format), *.heif (High Efficiency Image Format).
 
 [ImageIO v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/ImageIO1.5)
