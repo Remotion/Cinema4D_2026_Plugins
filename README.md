@@ -5,6 +5,12 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
+The Charge Current Lines plugin is a Cinema 4D 2026 generator that visualizes electric or magnetic field lines.
+
+[CurrentGenerator v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/CurrentGenerator1.0)
+
+---
+
 Toys4D includes two procedural spline generator plugins inspired by [turtletoy.net](https://turtletoy.net). Both allow you to generate complex spline geometry using code.
 
 [Toys4D v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/Toys4D1.0)
