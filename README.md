@@ -27,7 +27,7 @@ Import and Export plugin using Open Asset Import Library [assimp](https://github
 
 Fast Geodesics is a spline generator that creates geodesic curves on mesh surfaces using the parallel transport method.
 
-[FastGeodesics v1.5](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics1.5)
+[FastGeodesics v1.6](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/FastGeodesics1.6)
 
 <img width="284" height="352" alt="image" src="https://github.com/user-attachments/assets/7f428b53-0268-4185-a351-d48f086e5f25" />
 <img width="347" height="262" alt="image" src="https://github.com/user-attachments/assets/4db6c114-9561-4ab3-8044-f5c1e74cd826" />
