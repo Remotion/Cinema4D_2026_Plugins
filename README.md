@@ -5,7 +5,7 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
-The Charge Current Lines plugin is a Cinema 4D 2026 generator that visualizes electric or magnetic field lines.
+The Charge Current Lines plugin is a C4D generator that visualizes electric or magnetic field lines.
 
 [CurrentGenerator v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/CurrentGenerator1.0)
 
@@ -40,7 +40,7 @@ Fast Geodesics is a spline generator that creates geodesic curves on mesh surfac
 
 ---
 
-SuperTracer is a powerful C++ plugin for C4D 2026 that generates advanced spline networks by tracing the motion and proximity of objects, points, and Thinking Particles in real-time.
+SuperTracer is a powerful C++ plugin for C4D that generates advanced spline networks by tracing the motion and proximity of objects, points, and Thinking Particles in real-time.
 
 [SuperTracer v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/SuperTracer1.0)
 
