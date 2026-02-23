@@ -5,6 +5,12 @@ At the moment, there is no code for the plugins, only binaries for Windows.
 
 ---
 
+Slang4D is integration of Slang Shading Language into Cinema 4D 2026.
+
+[Slang4D v1.0](https://github.com/Remotion/Slang4D/releases/tag/Slang4D_v1)
+
+---
+
 The Charge Current Lines plugin is a C4D generator that visualizes electric or magnetic field lines.
 
 [CurrentGenerator v1.0](https://github.com/Remotion/Cinema4D_2026_Plugins/releases/tag/CurrentGenerator1.0)
