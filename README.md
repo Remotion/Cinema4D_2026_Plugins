@@ -3,6 +3,8 @@ New and old C++ plugins for Maxon Cinema 4D 2026
 
 At the moment, there is no code for the plugins, only binaries for Windows.
 
+Consider all plugins to be more or less in beta stage.
+
 ---
 
 Slang4D is integration of Slang Shading Language into Cinema 4D 2026.
