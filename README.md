@@ -7,6 +7,12 @@ Consider all plugins to be more or less in beta stage.
 
 ---
 
+Second version of a voxel-based generator/cloner for C4D 2026, now with SuperBrick.
+
+[SuperVoxels2 v1.0](https://github.com/Remotion/SuperVoxels2/releases/tag/SuperVoxels2_v1)
+
+---
+
 Slang4D is integration of Slang Shading Language into Cinema 4D 2026.
 
 [Slang4D v1.0](https://github.com/Remotion/Slang4D/releases/tag/Slang4D_v1)
