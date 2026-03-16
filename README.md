@@ -10,7 +10,7 @@ Consider all plugins to be more or less in beta stage.
 
 Slang4D is integration of Slang Shading Language into Cinema 4D 2026.
 
-[Slang4D v1.3](https://github.com/Remotion/Slang4D/releases/tag/Slang4Dv1.3)
+[Slang4D v1.4](https://github.com/Remotion/Slang4D/releases/tag/Slang4Dv1.4)
 
 ---
 
